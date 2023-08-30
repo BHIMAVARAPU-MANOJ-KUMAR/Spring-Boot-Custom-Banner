@@ -9,5 +9,4 @@ public class SpringbootcustombannerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootcustombannerApplication.class, args);
 	}
-
 }
